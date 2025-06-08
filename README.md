@@ -67,7 +67,7 @@ Confusion Matrix:
 
 1. **Clone the repo**:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/Hadi-Kassem/Titanic-Survival-Prediction-Model.git
    cd titanic_project
 2.  **Set up virtual environment**:
    python -m venv titanicvenv
